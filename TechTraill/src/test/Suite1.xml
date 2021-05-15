@@ -1,0 +1,7 @@
+<suite name = "Test-Suite1">
+    <test name = "formulario de pruebas">
+        <classes>
+            <class name = "Tests.LlenarFormulario"/>
+        </classes>
+    </test>
+</suite>
